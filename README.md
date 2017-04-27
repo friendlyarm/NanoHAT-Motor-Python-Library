@@ -9,6 +9,8 @@ http://wiki.friendlyarm.com/wiki/index.php/Matrix_-_NanoHat_Motor
 Currently supported boards (Plug & Play):
 * NanoPi NEO
 * NanoPi Fire
+* NanoPi NEO2
+* NanoPi NEO Plus2.
 
 Also support other development board with the i2c interface (Need to manually connect).  
   
